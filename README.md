@@ -1,7 +1,7 @@
 # medi_clustering
 
 
---
+---
 
 
 ## info
@@ -11,7 +11,7 @@
 - Evaluation Metric: `silhouette_score`, 'sse_score'
 - Environment: GCP VM, Colab, local
 
---
+---
 
 ## purpose
 - 제공된 데이터 셋에 다양한 Feature들 사이의 상관관계를 생각해 Cluestering 기법을 통해 긍정적인 효과를 볼 수 있는 적절한 군집 형성
